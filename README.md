@@ -1,8 +1,8 @@
-Rock, Paper, Scissors Game
+# **Rock, Paper, Scissors Game**
 
 Welcome to the Rock, Paper, Scissors game! This is a simple web-based implementation of the classic game, allowing users to play against the computer. The game is fully responsive and works on both desktop and mobile devices.
 
-Features
+*Features*
 Play the classic Rock, Paper, Scissors game.
 Responsive design for mobile and desktop compatibility.
 Keeps track of the user's and computer's scores.
@@ -11,31 +11,28 @@ Live Demo
 You can try out the live demo of the game here.
 https://ritika210502.github.io/Rock-Paper-Scissor/
 
-Technologies Used
+**Technologies Used**
 HTML
 CSS
 JavaScript
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
+**Clone the repository:**
 
 sh
-Copy code
 git clone https://github.com/yourusername/Rock-Paper-Scissors.git
 Navigate to the project directory:
 
 sh
-Copy code
 cd Rock-Paper-Scissors
 Open index.html in your web browser:
 
 sh
-Copy code
 open index.html
 or simply open it through your file explorer.
 
-Usage
+**Usage**
 Open the game in your web browser.
 Click on one of the three choices (Rock, Paper, or Scissors).
 The game will display the computer's choice and announce the winner.
